@@ -12,8 +12,13 @@ This guide is a basic guide, refer to the wiki for a more detailed guide.
 - If you havent already, enable htaccess in your apache or nginx config.
 - Finally, upload all the files onto your server if you havent already.  
 
-### Extra Features
-Below you can find a list of extra features and if they are released or not.  
-- Accounts: False.
-- Upload Logging: Added in main build.
-- *More to come!*  
+### Sharex Guide
+Now that you have installed the uploader onto your server you will want a way to upload the files.  
+The best way is to use ShareX, you can download this [here](https://getsharex.com/).  
+- First, download the example sharex config from the code.
+- Make sure you have configured the sharex config's password to be the same as the password in the config.
+- Finally, add the sharex config into sharex and start uploading!
+
+### To Come
+- Accounts
+- Dashboard
