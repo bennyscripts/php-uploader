@@ -1,0 +1,12 @@
+{
+    "password": "",
+    "directory": "",
+    "domain": "",
+    "embed": {
+        "enabled": true,
+        "author": "{domain}",
+        "title": "{filename} ({filesize})",
+        "description": "Uploaded at {uploaddate}",
+        "colour": ""
+    }
+}

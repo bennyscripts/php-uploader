@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+    --primary-background: #171717;
+    --secondary-background: #4086ff;
+
+    --primary-text: #ffffff;
+    --secondary-text: #a9a7ec;
+
+    --bold: 800;
+    --medium: 600;
+    --light: 200;
+}
+
+body {
+    font-family: Manrope, sans-serif!important;
+    background-color: var(--primary-background);
+    color: var(--primary-text);
+}
+
+bold, .medium {
+    font-weight: var(--bold);
+}
+
+medium, .medium {
+    font-weight: var(--medium);
+}
+
+light, .light {
+    font-weight: var(--light);
+}
+
+center, .center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    color: var(--secondary-text);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+card, .card {
+    border-radius: 10px;
+    border: 1px solid #272f38;
+}
+
+card-body, .card-body {
+    padding: 1.25rem;
+}
+
+card-title, .card-title {
+    font-weight: var(--bold);
+}
