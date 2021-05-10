@@ -20,5 +20,6 @@ The best way is to use ShareX, you can download this [here](https://getsharex.co
 - Finally, add the sharex config into sharex and start uploading!
 
 ### To Come
+Check the [projects](https://github.com/ilyBenny/php-uploader/projects/1) for progress.
 - Accounts
 - Dashboard
