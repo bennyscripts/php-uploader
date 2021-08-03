@@ -1,0 +1,12 @@
+{
+  "Version": "13.5.0",
+  "Name": "phpuploader",
+  "DestinationType": "ImageUploader, FileUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "http://domain.com/upload",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "password": "yourpasswordhere"
+  },
+  "FileFormName": "file"
+}
